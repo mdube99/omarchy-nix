@@ -19,7 +19,6 @@ in {
     (import ./git.nix)
     (import ./mako.nix)
     (import ./starship.nix)
-    (import ./vscode.nix)
     (import ./waybar.nix)
     (import ./wofi.nix)
     (import ./zoxide.nix)
